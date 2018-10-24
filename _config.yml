@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Marr"
-  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/default.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science Student"
   location         : "Middlesbrough, UK"
   email            : "contact@mjmarr.uk"
