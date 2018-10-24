@@ -104,7 +104,7 @@ author:
   avatar           : "/images/default.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science Student"
   location         : "Middlesbrough, UK"
-  email            : "contact@mjmarr.uk"
+  email            : "contact@mjmarr.co.uk"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
